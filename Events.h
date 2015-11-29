@@ -1,4 +1,6 @@
 // Events.h
+// Copyright (c) 2013 - Allen Bauer - http://blog.thereadoracleatdelphi.com
+// Under MIT License
 
 #ifndef _EVENTS_h
 #define _EVENTS_h

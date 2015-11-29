@@ -1,6 +1,7 @@
 // 
-// 
-// 
+// Copyright (c) 2013 - Allen Bauer - http://blog.thereadoracleatdelphi.com
+// Under MIT License
+//
 #include <stdint.h>
 #include "Events.h"
 #include "FastTimer.h"

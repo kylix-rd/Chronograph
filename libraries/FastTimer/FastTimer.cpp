@@ -1,3 +1,8 @@
+//
+// Copyright (c) 2013 - Allen Bauer - http://blog.thereadoracleatdelphi.com
+// Under MIT License
+//
+
 #include <stdio.h>
 #include <avr/io.h>
 #include "Arduino.h"

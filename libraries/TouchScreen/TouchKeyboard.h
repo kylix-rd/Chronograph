@@ -1,3 +1,7 @@
+//
+// Copyright (c) 2013 - Allen Bauer - http://blog.thereadoracleatdelphi.com
+// Under MIT License
+
 #ifndef TouchKeyboard_h
 #define TouchKeyboard_h
 

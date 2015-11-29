@@ -1,5 +1,6 @@
 // 
-// 
+// Copyright (c) 2013 - Allen Bauer - http://blog.thereadoracleatdelphi.com
+// Under MIT License
 // 
 
 #include "ChronoScreen.h"

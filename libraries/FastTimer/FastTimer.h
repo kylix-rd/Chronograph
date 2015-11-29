@@ -1,3 +1,7 @@
+// FastTimer.h
+// Copyright (c) 2013 - Allen Bauer - http://blog.thereadoracleatdelphi.com
+// Under MIT License
+
 #ifndef FastTimer_h
 #define FastTimer_h
 

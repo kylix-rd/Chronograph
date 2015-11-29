@@ -1,3 +1,7 @@
+//
+/// Copyright (c) 2013 - Allen Bauer - http://blog.thereadoracleatdelphi.com
+// Under MIT License
+/
 #include "T6963Console.h"
 
 LCDConsole::LCDConsole(T6963 *lcd) : _LCD(lcd), _row(0), _col(0), _winTop(0), _winLeft(0), _winRight(0), _winBottom(0), _caretVisible(true) { }

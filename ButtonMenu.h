@@ -1,4 +1,6 @@
 // ButtonMenu.h
+// Copyright (c) 2013 - Allen Bauer - http://blog.thereadoracleatdelphi.com
+// Under MIT License
 
 #ifndef _BUTTONMENU_h
 #define _BUTTONMENU_h

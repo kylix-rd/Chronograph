@@ -1,3 +1,7 @@
+//
+// Copyright (c) 2013 - Allen Bauer - http://blog.thereadoracleatdelphi.com
+// Under MIT License
+//
 #include <SD.h>
 #include "ButtonMenu.h"
 #include "ChronoData.h"
