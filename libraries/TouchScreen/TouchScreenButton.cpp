@@ -1,7 +1,9 @@
 //
-// Copyright (c) 2013 - Allen Bauer - http://blog.thereadoracleatdelphi.com
-// Under MIT License
+// Derived from https://code.google.com/p/arduino-touch-gui/
+// Modifications by Allen Bauer to work with a T6963c display - http://blog.thereadoracleatdelphi.com
+// GPL v3 + changes MIT licensed
 //
+
 #include "TouchScreenButton.h"
 
 extern const struct FONT_DEF font6x8;
